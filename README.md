@@ -1,6 +1,7 @@
 ```markdown
 # ИИ-ассистент для компании по продаже портативных гаражей
 Ссылка на проект @portativniegarazhi_bot
+![скриншоты моего приложения] (https://github.com/AI-Ylia/ai_assistent/blob/main/2025-04-10_13-12-38.png?raw=true)
 
 ## Описание проекта
 
